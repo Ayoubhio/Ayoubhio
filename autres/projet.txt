@@ -1,0 +1,2 @@
+nombre de ligne  à-peu-près 2000 lignes
+nombre de classe : 16
